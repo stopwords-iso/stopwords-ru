@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-ru",
+  "description": "The most comprehensive collection of stopwords for the russian language.",
+  "keywords": [
+    "russian",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-ru",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-ru.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
